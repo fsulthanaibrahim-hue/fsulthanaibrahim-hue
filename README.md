@@ -6,7 +6,6 @@
 
 ### 💻 Full Stack Developer | Python • Django • React.js
 
-
 </div>
 
 ---
@@ -18,18 +17,38 @@
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 🚀 Building scalable web applications
 - 💡 Interested in Backend Development & Problem Solving
-- 📚 Exploring System Design & Modern Web Technologies
+- 📚 Exploring **System Design** & Modern Web Technologies
 - 🎯 Goal: Become a Software Engineer
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,bootstrap,postgres,mysql,git,github,vscode,figma&perline=7" />
+### 🎨 Frontend & Styling
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,vite" />
 </p>
+
+<br>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" />
+</p>
+
+<br>
+
+### 🛠️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,figma" />
+</p>
+
+</div>
 
 ---
 
@@ -54,7 +73,7 @@ A robust management ecosystem engineered with **Django REST Framework** and **Po
 
 ## 🔹 Trendora — Modern E-Commerce Web App
 
-A modern, responsive e-commerce application built with **React.js**, delivering a seamless shopping experience.
+A modern, responsive e-commerce platform built with **React.js** and **Vite**, delivering a seamless shopping experience.
 
 ### ✨ Key Highlights
 
@@ -65,7 +84,7 @@ A modern, responsive e-commerce application built with **React.js**, delivering 
 
 ### 🛠️ Tech Stack
 
-`React.js` • `JavaScript` • `Tailwind CSS`
+`React.js` • `JavaScript` • `Tailwind CSS` • `Vite`
 
 ---
 
@@ -78,7 +97,7 @@ A curated collection of algorithm implementations and coding interview solutions
 - 📚 Sorting Algorithms
 - 🔍 Searching Algorithms
 - 🧩 Problem Solving Patterns
-- 📈 Complexity Analysis
+- 📈 Time & Space Complexity Analysis
 - 🐍 Python Implementations
 
 ### 🛠️ Tech Stack
@@ -87,31 +106,27 @@ A curated collection of algorithm implementations and coding interview solutions
 
 ---
 
-
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fsulthanaibrahim-hue&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsulthanaibrahim-hue&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
+# 🌐 Let's Connect
 
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/fathimath-sulthana-57922839a/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:fsulthanaibrahim@gmil.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:fsulthanaibrahim@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
