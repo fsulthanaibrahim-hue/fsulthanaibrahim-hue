@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Fathimath Sulthana
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;React.js+Developer;Django+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Django+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-### 💻 Full Stack Developer | Python • Django • React.js
+### 💻 Full Stack Developer | Python • Django • React.js • Next.js • TypeScript
 
 </div>
 
@@ -29,7 +29,7 @@
 ### 🎨 Frontend & Styling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,js,html,css,tailwind,bootstrap,vite" />
 </p>
 
 <br>
